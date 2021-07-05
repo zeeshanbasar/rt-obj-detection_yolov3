@@ -1,2 +1,4 @@
-# rt-obj-detection_yolov3
-real time objection using yolov3
+# Real-time Object Detection using YOLOv3 
+
+
+Weights trained on MS COCO dataset
